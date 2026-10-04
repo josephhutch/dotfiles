@@ -1,0 +1,7 @@
+[user]
+	name = Joe Hutchinson
+	email = hutch7995@gmail.com
+[pull]
+	rebase = true
+[push]
+	autoSetupRemote = true
